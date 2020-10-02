@@ -1,0 +1,82 @@
+*{
+	margin: 0px;
+}
+
+.header{
+	background-color: #a3fcfe;
+	height: 150px;
+}
+
+h1{
+	
+	color: black;
+	line-height: 90px;
+	letter-spacing: 2px;
+	word-spacing: 10px;
+}
+
+.box{
+  	width: 51%;
+	height: 450px;
+ 	border: 15px solid white;
+ 	
+ 	margin-top: 20px;
+ 	  
+	background: white;
+
+  	box-shadow: 12px 12px 7px grey;
+}
+
+
+
+
+label{
+	width: 120px;
+	text-align:left;
+	display: inline-block;
+	font-size: 18px;
+	
+	margin-left: 25px;
+	margin-top: 30px;
+	float: left;
+}
+
+label, input{
+	text-align:left;
+	font-size: 15px;
+	color: #031e37;
+	font-family: 'Francois One';
+	float: left;
+	margin-top: 30px;
+}
+
+select{
+	
+	font-size: 15px;
+	text-align: center;
+	float: left;
+	margin-top: 30px;
+}
+
+button{
+	width: 90px;
+	height: 30px;
+	border: 1px solid black;
+	font-size: 19px;
+	text-align: center;
+	letter-spacing: 1px;
+	background-color: #b3d5fb;
+	color: black;
+	font-family: 'Ramabhadra';
+	margin-top: 50px;
+}
+
+img{
+	padding-right: 90px;
+	margin-top: 30px;
+}
+
+
+body{
+	background-color: deepskyblue;
+}
